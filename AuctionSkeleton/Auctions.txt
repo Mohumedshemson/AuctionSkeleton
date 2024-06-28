@@ -1,0 +1,64 @@
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,50.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,50.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,50.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,50.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,50.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,50.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,50.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,0.0,,Upcomming,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
+Iphone,Elec,100.0,50.0,,In Progress,Momo,2024-03-20T21:06:33.099293
+Shirt,Clothes,50.0,0.0,,Upcomming,Momo,2024-03-20T21:07:24.395250
